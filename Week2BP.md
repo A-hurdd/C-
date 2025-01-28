@@ -33,4 +33,22 @@ Meaningful variable names
 ### Ways to get ammounts into variables
 payAmount = hours X rate; 
 cout << "enter the hours workes:"; >prompt
-cib >> hours;
+cin >> hours;
+
+### Ways to leave comments 
+>for this class
+
+// Your Name
+// CS 1143 Day
+
+> Description
+// Calculates Pay
+
+>multi line note to hide from compiler 
+/*       */
+
+# When using strings
+
+#include <iostream>
+#include <string>
+using namespace std;

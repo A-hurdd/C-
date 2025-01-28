@@ -1,4 +1,4 @@
-#Variables
+# Variables
 
 Int - integer - no decimals
 
@@ -20,17 +20,17 @@ Char option => "a"
 
 Bool flag => true 
 
-##Must 
+## Must 
 
 No spaces it must be a letter or _
 There is no special characters except _
 EX: lastXname => lastName or _lastname => last_name
 
-##Customs
+## Customs
 >starts with a lower case
 Meaningful variable names
 
-###Ways to get ammounts into variables
+### Ways to get ammounts into variables
 payAmount = hours X rate; 
 cout << "enter the hours workes:"; >prompt
 cib >> hours;

@@ -1,14 +1,23 @@
 #Variables
 
 Int - integer - no decimals
+
 Double - with decimals
+
 String - 1 or more characters
+
 Char - 1 character
+
 Bool - boolean
+
 Int count; => 3
+
 Double pay; => 5.5
+
 String name => "john"
+
 Char option => "a"
+
 Bool flag => true 
 
 ##Must 

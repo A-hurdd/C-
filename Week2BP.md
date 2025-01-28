@@ -42,9 +42,10 @@ cin >> hours;
 // CS 1143 Day
 
 > Description
+
 // Calculates Pay
 
->multi line note to hide from compiler 
+multi line note to hide from compiler 
 /*       */
 
 # When using strings
@@ -52,3 +53,11 @@ cin >> hours;
 #include <iostream>
 #include <string>
 using namespace std;
+
+# next
+
+int main ()
+{
+// Declare variables
+return 0;
+}

@@ -6,3 +6,11 @@
 ### Data Type      Keyword     Description
 ---
 ![image](https://github.com/user-attachments/assets/f917ae08-9db5-45b8-8896-9a9f986388db)
+
+### Formulas
+
+15/4 => 3
+
+15/4.0 => 3.75
+
+15.0/4 => 3.75

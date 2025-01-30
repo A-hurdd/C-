@@ -12,7 +12,8 @@ Devision sales
 // Abigail Hurd
 // CS 1143 Day TR015
 // Example in class 
-#include #include using namespace std;
+
+#include using namespace std;
 #include<iostream>
 using namespace std;
 

@@ -40,10 +40,15 @@ int main()
     cout << "Enter the rainfall for " << month3 << ": ";
     cin >> rain3;
 
+	// Processing
+
     double average = (rain1 + rain2 + rain3) / 3;
 
+	// Output
+
     cout << fixed << setprecision(2);
-    cout << "The average rainfall for " << month1 << ", " << month2 << ", and " << month3 << " is " << average << " inches." << endl;
+    cout << "The average rainfall for " << month1 << ", " << month2;
+    cout <<", and " << month3 << " is " << setw(6) <<average << " inches." << endl;
 
     return 0;
 }

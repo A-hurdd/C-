@@ -10,17 +10,20 @@ Output : The average rainfall for _, _, and _ is _ Inches.
 
 //Abigial Hurd 
 //CS 1143 Day TR015 
-// Rainfall
+//Rainfall
 
 #include <iostream>
 #include <iomanip>
-#include using namespace std;
+#include <string>
+using namespace std;
 
-int main() {
-    // Input variables
+int main()
+{
+    // Declare variables
     string month1, month2, month3;
     double rain1, rain2, rain3;
 
+    // Input
     cout << "Enter the first month: ";
     cin >> month1;
     cout << "Enter the rainfall for " << month1 << ": ";

@@ -1,5 +1,7 @@
 // Abigail Hurd
+
 // CS 1143 Day TR015
+
 // Miles per Gallon
 
 #include<iostream>

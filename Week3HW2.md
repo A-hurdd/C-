@@ -19,8 +19,19 @@ Use the given numbers for turning in.
    
 ******************************
 Total Collected:    $ 26572.89
+
 Sales:              $ 24834.48
+
 City Sales Tax:     $   248.34
+
 County Sales Tax:   $   496.69
+
 State Sales Tax:    $   993.38
+
 Total Sales Tax:    $  1738.41
+
+
+
+
+
+
